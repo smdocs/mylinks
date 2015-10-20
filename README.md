@@ -579,6 +579,7 @@ My Links
 * [OpsView Core](http://www.opsview.com/resources/downloads/download-opsview-core) - GPL version of OpsView, not as feature-rich as the commercial product
 * [Packetbeat](http://packetbeat.com/) - Distributed packet monitoring system that can be used for application performance management
 * [pmacct](http://www.pmacct.net/) - IP and network traffic accounting / monitoring
+* [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database
 * [Riemann](http://riemann.io/) - Aggregates events from your servers and applications with a powerful stream processing language, for distributed systems
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework, cloud-focused
 * [Shinken](http://www.shinken-monitoring.org/) - Compatible with Nagios
