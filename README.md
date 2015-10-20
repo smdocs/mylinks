@@ -319,6 +319,7 @@ My Links
 * [Kitematic](https://kitematic.com/) - Mac app for managing Docker containers
 * [libcontainer](https://github.com/docker/libcontainer) - Used by Docker 1.0+ so it doesn't have to use LXC/libvirt/systemd-nspawn
 * [Linux Containers (LXC)](https://linuxcontainers.org/) - Runs an OS instance (sshd, cron, daemons, init, etc) within a container
+* [Nomad - A distributed, highly available, data-center aware scheduler](https://www.nomadproject.io/)
 * [Panamax](http://panamax.io/) - Containerized app creator with an open-source app marketplace hosted in GitHub
 * [pipework](https://github.com/jpetazzo/pipework) - SDN for Linux Containers
 * [Rancher](http://rancher.com/) - Provides a complete platform for operating Docker in production
